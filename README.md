@@ -23,7 +23,7 @@ To develop a relational database system capable of tracking corporate IT assets 
 - Installed MariaDB Server via `dnf` and secured the root account.
 - Designed table structures to track enterprise assets including Laptops, RF Scanners, and Printers.
 
-![Database Schema](INSERT_IMAGE_LINK_HERE)
+![Database Schema](https://github.com/hunterraustin/IT-asset-management-database/blob/main/schema.png)
 
 ### 2. Data Ingestion (Personnel & Hardware)
 - Populated the database with simulated data representing staff across key operational hubs.
@@ -33,7 +33,7 @@ To develop a relational database system capable of tracking corporate IT assets 
 - **Procurement Report:** Created a query to automatically flag items with `StockCount < 5`, enabling proactive hardware ordering.
 - **Asset Audit:** Generated reports showing all IT equipment assigned to specific warehouse locations.
 
-![Reporting Output](INSERT_IMAGE_LINK_HERE)
+![Reporting Output](https://github.com/hunterraustin/IT-asset-management-database/blob/main/reporting_query.png)
 
 ## 📂 Project Files
 - `asset_schema.sql`: Contains the full SQL script used to build the database and insert sample data.
