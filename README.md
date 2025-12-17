@@ -36,7 +36,7 @@ To develop a relational database system capable of tracking corporate IT assets 
 ![Reporting Output](https://github.com/hunterraustin/IT-asset-management-database/blob/main/reporting_query.png)
 
 ## 📂 Project Files
-- `asset_schema.sql`: Contains the full SQL script used to build the database and insert sample data.
+- [asset_schema.sq](asset_schema.sql)`: Contains the full SQL script used to build the database and insert sample data.
 
 ## 📚 References & Resources
 Project configuration was guided by standard documentation and the following resources:
